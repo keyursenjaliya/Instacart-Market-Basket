@@ -10,6 +10,8 @@ From past data of user's orders over time we need to predict which products user
 
 For detail summary  refer my  medium blog about this project
 
+https://keyursenjaliya1114.medium.com/instacart-market-basket-analysis-279cc039b756
+
 # HEROKU DEPLOYMENT LINK
 
 https://instacart-order-prediction.herokuapp.com/
